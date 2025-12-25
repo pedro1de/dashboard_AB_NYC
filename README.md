@@ -1,7 +1,7 @@
-# Dashboard_Olist
+# Dashboard_AB_NYC
 
 ## Descrição do Projeto
-Este projeto apresenta um **dashboard interativo** desenvolvido no **Power BI** utilizando dados da Olist, focado em **locação de acomodações** (casas, apartamentos, quartos). O objetivo do dashboard é fornecer **insights estratégicos** para análise de desempenho, otimização de preços e tomada de decisão.
+Este projeto apresenta um **dashboard interativo** desenvolvido no **Power BI** utilizando dados públicos do dataset **AB_NYC 2019** do Kaggle, focado em **locação de acomodações em Nova York**. O objetivo do dashboard é fornecer **insights estratégicos** sobre desempenho de preços, quantidade de acomodações e distribuição por bairro e tipo de quarto.
 
 O dashboard possui **três páginas principais**:  
 1. **Menu Principal**: Página inicial com botões de navegação para as demais páginas e opções de filtro rápido.  
@@ -43,10 +43,9 @@ Os usuários podem interagir com o dashboard utilizando os seguintes filtros:
 - Botões de retorno ao **Menu Principal** em todas as páginas  
 - Botões para **apagar todos os filtros aplicados**  
 
-## Valor para a Empresa
+## Valor para Análise
 Este dashboard permite:  
-- Monitorar receita e desempenho de locações por bairro e tipo de acomodação  
+- Monitorar desempenho de locações por bairro e tipo de acomodação  
 - Identificar os **top performers** e áreas com maior potencial de lucro  
-- Analisar crescimento de receita e número de acomodações ano a ano  
-- Ajustar preços e estratégias de marketing com base em dados reais  
-- Tomar decisões rápidas e embasadas para **maximizar a rentabilidade**  
+- Analisar crescimento de preço e quantidade de acomodações ano a ano  
+- Tomar decisões rápidas e embasadas sobre preços e oferta de acomodações
